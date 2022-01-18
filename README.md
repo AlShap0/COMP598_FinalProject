@@ -5,7 +5,7 @@ Due Dec 13, 2021 @ 11:59 PM
 
 ## Quick Overview
 
-This is a data science project in which COVID sentiment in Canada was analyzed by scraping 1000 tweets around November 2021.
+This is a data science project in which COVID sentiment in Canada was analyzed by scraping 1000 tweets in November 2021.
 
 Data acquisition included scraping tweets using the Twitter API, manual double-annotation by category (informational, personal opinion, etc.) and sentiment (positive, negative, or neutral) by three different annotators, and majority voting for annotation merging.
 
