@@ -1,5 +1,18 @@
 # COMP 598 Final Project - Data Science Project
 
+## Quick Overview
+
+This is a data science project in which COVID sentiment in Canada was analyzed by scraping 1000 tweets around November 2021.
+
+Data acquisition included scraping tweets using the Twitter API, manual double-annotation by category (informational, personal opinion, etc.) and sentiment (positive, negative, or neutral) by three different annotators, and majority voting for annotation merging.
+
+Data analysis included tokenization and TF-IDF analysis.
+
+Exploratory data visualization was done to find the most efficient way to display all the findings.
+
+All methods and results are fully discussed in the final report.
+
+
 Assigned Nov 10, 2021
 Due Dec 13, 2021 @ 11:59 PM
 
