@@ -26,5 +26,5 @@ The three main goals of the project were to:
 
 
 ## Alon's direct contribution to the project:
-Equal contribution to formatting of scraped data, data cleaning, category formulation, tweet annotation, and report writing.
+Equal contribution to formatting of scraped data, data cleaning and analysis, category formulation, tweet annotation, and report writing.
 Exclusive contribution to data merging (from all annotators) and visualization.
