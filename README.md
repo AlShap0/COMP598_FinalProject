@@ -1,6 +1,6 @@
 # COVID sentiment analysis in Canadian social media
 
-Project was completed in November-December 2021.
+Project was completed in November-December 2021 by Alon Shapiro, Hugo Baraer, and Luca Weishaupt as part of the final project for COMP 598 - Data Science at McGill University.
 
 ## Quick Overview
 
@@ -22,7 +22,7 @@ The three main goals of the project were to:
 
 1. Find the main topics discussed around COVID.
 2. Quantify the relative engagement with those topics.
-3. Quantify how positive/negative the discussion of each one those topics, as well as the general response to the pandemic has been.
+3. Quantify how positive/negative the discussion of each one those topics is, as well as what the general response to the pandemic has been.
 
 
 ## Alon's direct contribution to the project:
